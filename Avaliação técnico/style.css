@@ -1,0 +1,26 @@
+body{
+    margin: 0%;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+
+header{
+    background-color: rgb(92, 48, 153);
+    height: 8rem;
+    text-align: center;
+    margin-top: 0em;
+}
+
+.botoes{
+    border-radius: 15px;
+    border-bottom: cornflowerblue;
+}
+
+footer{
+    background-color: rgb(92, 48, 153);
+    height: 8rem;
+    margin-top: 35%;
+    text-align: center;
+}
